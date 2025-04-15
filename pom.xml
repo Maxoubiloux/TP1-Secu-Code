@@ -43,7 +43,7 @@
                 <version>9.0.9</version>
                 <configuration>
                     <nvdApiKey>${env.NVD_API_KEY}</nvdApiKey>
-                    <nvdApiDelay>3000</nvdApiDelay>
+                    <nvdApiDelay>9000</nvdApiDelay>
                 </configuration>
                 <executions>
                     <execution>
